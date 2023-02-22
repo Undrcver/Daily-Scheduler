@@ -9,7 +9,7 @@ This is a user oriented day scheduler that gives up to date time as well as time
 
 ## Links
 * [Repo](https://github.com/Undrcver/Daily-Scheduler)
-* [Webpage]
+* [Webpage](https://undrcver.github.io/Daily-Scheduler/)
 
 ## Languages Used
 -CSS -JavaScript -HTML
